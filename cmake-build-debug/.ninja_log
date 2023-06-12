@@ -1,0 +1,4 @@
+# ninja log v5
+10	499	7082936218842559	build.ninja	db985fdf6acc0301
+1	1005	7082936229533323	CMakeFiles/kowboj.dir/main.cpp.obj	7e8d57284db95cbd
+1010	1480	7082936234166668	kowboj.exe	b888c4b4e42031f1

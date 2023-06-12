@@ -1,0 +1,3 @@
+C:/Users/hp/CLionProjects/kowboj/cmake-build-debug/CMakeFiles/kowboj.dir
+C:/Users/hp/CLionProjects/kowboj/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hp/CLionProjects/kowboj/cmake-build-debug/CMakeFiles/rebuild_cache.dir
