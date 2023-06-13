@@ -156,7 +156,7 @@ int main() {
 
             if (gracz.isJumping) {//nowa pozycja w stosunku do skoku
                 gracz.PosY -= gracz.jumpVelocity;
-                gracz.PosX += gracz.Speed + 3.0f; //plus 3 rzeby skuteczniej omijal przeszkody
+                gracz.PosX += gracz.Speed + 3.0f; //plus 3 zeby skuteczniej omijal przeszkody
                 gracz.jumpVelocity -= gravity;
 
 
